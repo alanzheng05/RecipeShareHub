@@ -1,22 +1,15 @@
 # Recipe Share Hub
-
 This project was built using [Create React App](https://github.com/facebook/create-react-app) and is a full-stack web application that allows users to create, browse, and manage recipes. The platform encourages creativity and community through cooking.
 
 ##  Project Features
-
 -  User registration and login
 -  Create, view, edit, and delete your own recipes
 -  Global recipe feed from all users
 -  Filter and search recipes
 -  Favorite and rate recipes
 
-
-
-
-
 - **Deployment Url**
- https://recipesharehub-ziy3.onrender.com/
-
+  https://recipesharehub-ziy3.onrender.com/
 
 ## Roles
 - **Alan Zheng (Member 1)**  
@@ -36,15 +29,9 @@ This project was built using [Create React App](https://github.com/facebook/crea
 
 - **Aron Williams (Member 4)**  
   *Styling, Docs, and Deployment*  
-  - Styled components and help integrated frontend/backend  
+  - Styled components and help integrate frontend/backend  
   - Created final presentation  
   - Handled deployment and testing
-
-## Presentation    
-Youtube link 
-https://youtu.be/jlZOPX-jxiQ
-
----
 
 ## Available Scripts
 
@@ -66,7 +53,6 @@ Builds the app for production in the `build` folder.
 ### `npm run eject`
 
 Ejects the app if you need full control over configuration (not reversible).
-
 ---
 
 ## 📚 Learn More

@@ -1,0 +1,28 @@
+{
+  "name": "recipesharehub",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "run" : "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therathatter/RecipeShareHub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therathatter/RecipeShareHub/issues"
+  },
+  "homepage": "https://github.com/therathatter/RecipeShareHub#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "env": "^0.0.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

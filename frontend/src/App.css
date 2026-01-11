@@ -1,0 +1,41 @@
+.custom-navbar {
+  background: linear-gradient(90deg, #004aad, #5de0e6) !important;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: white !important;
+}
+
+.custom-navbar .nav-link {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.custom-navbar .nav-link:hover {
+  color: white !important;
+}
+
+.btn-signup {
+  background-color: #004aad;
+  color: white;
+}
+
+.btn-signup:hover {
+  background-color: #F78C00;
+}
+
+.btn-primary {
+  background-color: #004aad;
+  border-color: #004aad;
+}
+
+.btn-primary:hover {
+  background-color: #F78C00;
+  border-color: #F78C00;
+}
+
+.recipe-detail-img {
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+}
